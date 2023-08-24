@@ -41,8 +41,15 @@ body {
     align-items: center;
 }
 
-h1 {
+.title {
+    text-align: center;
+    border-bottom: solid 5px #FF6600;
+    width: 300px;
+    margin-bottom: 10px;
+}
+.title h1 {
  color: #FFFFFF;
+ margin-bottom: 10px;
 }
 
 .inputs h3 {
